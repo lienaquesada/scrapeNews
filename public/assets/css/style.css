@@ -16,24 +16,24 @@ main {
   line-height: 150%;
 }
 #btnSignUp {
-  background-color: #eca3b6;
+  background-color: #af4962;
 }
 #nameComment {
   /*border-bottom: 2px solid #ec407a;*/
   font-weight: bold;
-  background: #eca3b6;
+  background: #af4962;
   color: white;
 }
 .input-field input[type="text"]:focus + label {
-  color: #eca3b6;
+  color: #af4962;
 }
 .input-field input[type="text"]:focus {
-  border-bottom: 1px solid #eca3b6;
+  border-bottom: 1px solid #af4962;
   box-shadow: 0 1px 0 0 #000;
 }
 .input-field .prefix.active {
-  color: #eca3b6;
+  color: #af4962;
 }
 .topnav {
-  background-color: #eca3b6;
+  background-color: #af4962;
 }
